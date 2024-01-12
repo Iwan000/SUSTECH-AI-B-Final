@@ -1,7 +1,8 @@
 # SUSTECH-AI-B-Final
 SUSTECH AI B course final code
 
-This code including current IRL algorithms:
+This code including current IRL algorithms.
+The files besides list10_compare.ipynb and list10_compare.ipynb, are implementing current algorithms.
 Referrence:
 @misc{alger16,
   author       = {Matthew Alger},
